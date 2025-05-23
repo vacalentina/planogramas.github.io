@@ -1,63 +1,52 @@
-
 <!DOCTYPE html>
 <html lang="es">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Catálogo de Charolas</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Exhibidores</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-    }
-
-    header {
-      background: #222;
-      color: white;
-      padding: 20px;
-      text-align: center;
+      background-color: #f4f4f4;
     }
 
     .filters {
       display: flex;
-      justify-content: center;
       flex-wrap: wrap;
-      margin: 15px 0;
       gap: 10px;
-    }
-
-    .filters button {
-      background: #007bff;
-      border: none;
-      color: white;
-      padding: 10px 15px;
-      border-radius: 4px;
-      cursor: pointer;
-    }
-
-    .filters button.active {
-      background: #0056b3;
-    }
-
-    .catalogo {
-      display: flex;
-      flex-direction: column;
       align-items: center;
-      padding: 10px;
+      margin: 20px 0;
+    }
+
+    .filters label {
+      margin-bottom: 0;
+      font-weight: bold;
+    }
+
+    .filter-group {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .btn-toggle.active {
+      box-shadow: inset 0 0 0 2px #000;
+      font-weight: bold;
     }
 
     .item {
       background: white;
       border-radius: 8px;
-      margin: 10px;
+      margin: 10px auto;
       padding: 15px;
-      width: 90%;
-      max-width: 600px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      max-width: 900px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
       display: flex;
       gap: 15px;
+      align-items: center;
+      flex-wrap: wrap;
     }
 
     .item img {
@@ -74,228 +63,155 @@
     }
 
     .info {
-      flex: 1;
+      flex: 1 1 200px;
+      min-width: 0;
     }
 
-    .info h3 {
-      margin: 0 0 5px;
-    }
-
+    .info h5,
     .info p {
-      margin: 4px 0;
-      font-size: 14px;
-      color: #333;
-    }
-
-    .item-count {
-      text-align: center;
-      margin: 10px 0;
-      font-size: 16px;
-      color: #333;
+      margin: 0;
+      word-break: break-word;
     }
 
     .modal {
       display: none;
       position: fixed;
-      z-index: 1;
-      padding-top: 60px;
-      left: 0;
+      z-index: 9999;
       top: 0;
-      width: 100%;
-      height: 100%;
-      overflow: auto;
-      background-color: rgba(0, 0, 0, 0.9);
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: rgba(0, 0, 0, 0.8);
       justify-content: center;
       align-items: center;
     }
 
-    .modal-content {
-      margin: auto;
-      display: block;
-      width: 80%;
-      max-width: 700px;
+    .modal img {
+      max-width: 95vw;
+      max-height: 95vh;
+      border-radius: 8px;
     }
 
-    .modal-content img {
-      width: 100%;
-    }
-
-    .close {
+    .modal-close {
       position: absolute;
-      top: 15px;
-      right: 35px;
-      color: #fff;
-      font-size: 40px;
-      font-weight: bold;
-      cursor: pointer;
-    }
-
-    .close:hover,
-    .close:focus {
-      color: #bbb;
-      text-decoration: none;
-      cursor: pointer;
-    }
-
-    .nav {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      background: none;
-      border: none;
-      font-size: 40px;
+      top: 10px;
+      right: 20px;
+      font-size: 30px;
       color: white;
       cursor: pointer;
-      padding: 10px;
-      user-select: none;
-      z-index: 2;
-    }
-
-    .nav.prev {
-      left: 20px;
-    }
-
-    .nav.next {
-      right: 20px;
-    }
-
-    .nav:hover {
-      color: #ccc;
-    }
-
-    @media (max-width: 600px) {
-      .item {
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-      }
-
-      .item img {
-        width: 100%;
-        max-width: 300px;
-      }
-
-      .filters {
-        flex-direction: column;
-        align-items: center;
-      }
-
-      .filters button {
-        width: 90%;
-        max-width: 300px;
-      }
-
-      .modal-content img {
-        max-width: 90vw;
-        max-height: 70vh;
-      }
+      background: none;
+      border: none;
     }
   </style>
 </head>
 
-<body>
-  <header>
-    <h1>Catálogo de Charolas</h1>
-    <p>Consulta rápida por familia, encabezado o tipo</p>
-  </header>
+<body class="container py-3">
+  <h2 class="text-center mb-3">Catálogo de Exhibidores</h2>
 
-  <div class="filters">
-    <button onclick="filterItems(event, 'todos')" class="active">Todas (102)</button>
-    <button onclick="filterItems(event, 'HTU')">HTU (66)</button>
-    <button onclick="filterItems(event, 'ZYN')">ZYN (60)</button>
-    <button onclick="filterItems(event, 'FAROS')">FAROS (38)</button>
-    <button onclick="filterItems(event, 'HEADER')">HEADER (78)</button>
-    <button onclick="filterItems(event, 'NOHEADER')">NOHEADER (54)</button>
-  </div>
-
-  <div class="catalogo" id="catalogo"></div>
-  <div class="item-count" id="itemCount"></div>
-
-  <div id="myModal" class="modal">
-    <span class="close">&times;</span>
-    <button class="nav prev" onclick="navigateModal(-1)">&#10094;</button>
-    <div class="modal-content">
-      <img id="modal-img" src="" alt="Imagen ampliada">
+  <div class="filters justify-content-center">
+    <div class="filter-group">
+      <label>Familia:</label>
+      <button class="btn btn-outline-primary btn-toggle" data-filter="family" data-value="HTU">HTU</button>
+      <button class="btn btn-outline-primary btn-toggle" data-filter="family" data-value="ZYN">ZYN</button>
+      <button class="btn btn-outline-primary btn-toggle" data-filter="family" data-value="FAROS">FAROS</button>
+      <button class="btn btn-outline-primary btn-toggle" data-filter="family" data-value="HEADER">HEADER</button>
+      <button class="btn btn-outline-primary btn-toggle" data-filter="family" data-value="NOHEADER">NOHEADER</button>
     </div>
-    <button class="nav next" onclick="navigateModal(1)">&#10095;</button>
+    <div class="filter-group">
+      <label>Tipo:</label>
+      <button class="btn btn-outline-success btn-toggle" data-filter="tipo" data-value="Backwall">Backwall</button>
+      <button class="btn btn-outline-success btn-toggle" data-filter="tipo" data-value="Metálico">Metálico</button>
+    </div>
+    <div class="filter-group">
+      <label>Charolas:</label>
+      <button class="btn btn-outline-warning btn-toggle" data-filter="charolas" data-value="4">4 Charolas</button>
+      <button class="btn btn-outline-warning btn-toggle" data-filter="charolas" data-value="5">5 Charolas</button>
+    </div>
+    <button class="btn btn-danger" onclick="limpiarFiltros()">Limpiar filtros</button>
   </div>
 
+  <div class="text-center mb-2">
+    <strong>Items visibles: <span id="itemCount">0</span></strong>
+  </div>
+
+  <div id="catalogo"></div>
+
+  <div class="modal" id="imageModal">
+    <button class="modal-close" onclick="cerrarModal()">&times;</button>
+    <img id="modalImage" src="" alt="Imagen ampliada">
+  </div>
+
+  <script src="items_backwall.js"></script>
   <script src="items_charolas_corregido.js"></script>
   <script>
+    const allItems = [...window.itemsBackwall, ...window.itemsCharolas];
     const container = document.getElementById('catalogo');
     const itemCount = document.getElementById('itemCount');
-    let currentIndex = 0;
-    let images = [];
+    const activeFilters = { family: new Set(), tipo: new Set(), charolas: new Set() };
+
+    function matchesFilters(item) {
+      const familia = item.tags.toUpperCase().split(" ");
+      const title = item.title.toUpperCase();
+      const tipo = item.categoria === "backwall" ? "Backwall" : "Metálico";
+      const charolas = title.includes("5 CHAROLAS") ? "5" : "4";
+      const familiaMatch = !activeFilters.family.size || [...activeFilters.family].some(f => familia.includes(f));
+      const tipoMatch = !activeFilters.tipo.size || activeFilters.tipo.has(tipo);
+      const charolasMatch = !activeFilters.charolas.size || activeFilters.charolas.has(charolas);
+      return familiaMatch && tipoMatch && charolasMatch;
+    }
 
     function renderItems() {
       container.innerHTML = '';
-      items.forEach(({ img, tags, title, code }) => {
+      const visibles = allItems.filter(matchesFilters);
+      for (const item of visibles) {
         const div = document.createElement('div');
         div.className = 'item';
-        div.dataset.tags = tags;
+        const carpeta = item.categoria === 'backwall' ? 'img' : 'imagenes_charolas_extraidas';
         div.innerHTML = `
-          <img src="imagenes_charolas_extraidas/${img}" alt="${img}" onclick="openModal(this)">
+          <img src="${carpeta}/${item.img}" alt="${item.title}" onclick="mostrarModal('${carpeta}/${item.img}')">
           <div class="info">
-            <h3>${title}</h3>
-            <p>${code}</p>
+            <h5>${item.title}</h5>
+            <p>${item.code}</p>
           </div>
         `;
         container.appendChild(div);
-      });
-    }
-
-    function filterItems(event, tag) {
-      const buttons = document.querySelectorAll('.filters button');
-      buttons.forEach(btn => btn.classList.remove('active'));
-      event.target.classList.add('active');
-
-      const itemsDOM = document.querySelectorAll('.item');
-      let visibleCount = 0;
-      itemsDOM.forEach(item => {
-        const tags = item.dataset.tags.split(' ').map(t => t.trim());
-        if (tag === 'todos' || tags.includes(tag)) {
-          item.style.display = 'flex';
-          visibleCount++;
-        } else {
-          item.style.display = 'none';
-        }
-      });
-      itemCount.textContent = `Items visibles: ${visibleCount}`;
-    }
-
-    function openModal(imgElement) {
-      images = Array.from(document.querySelectorAll('.item img'));
-      currentIndex = images.indexOf(imgElement);
-      showImage(currentIndex);
-      document.getElementById('myModal').style.display = "flex";
-    }
-
-    function showImage(index) {
-      const modalImg = document.getElementById('modal-img');
-      modalImg.src = images[index].src;
-      modalImg.alt = images[index].alt;
-    }
-
-    function navigateModal(direction) {
-      currentIndex += direction;
-      if (currentIndex < 0) currentIndex = images.length - 1;
-      if (currentIndex >= images.length) currentIndex = 0;
-      showImage(currentIndex);
-    }
-
-    document.querySelector('.close').onclick = function () {
-      document.getElementById('myModal').style.display = "none";
-    }
-
-    window.onclick = function (event) {
-      const modal = document.getElementById('myModal');
-      if (event.target === modal) {
-        modal.style.display = "none";
       }
+      itemCount.textContent = visibles.length;
+    }
+
+    document.querySelectorAll('.btn-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.dataset.filter;
+        const value = btn.dataset.value;
+        if (activeFilters[filter].has(value)) {
+          activeFilters[filter].delete(value);
+          btn.classList.remove('active');
+        } else {
+          activeFilters[filter].add(value);
+          btn.classList.add('active');
+        }
+        renderItems();
+      });
+    });
+
+    function limpiarFiltros() {
+      Object.values(activeFilters).forEach(set => set.clear());
+      document.querySelectorAll('.btn-toggle').forEach(btn => btn.classList.remove('active'));
+      renderItems();
+    }
+
+    function mostrarModal(src) {
+      const modal = document.getElementById('imageModal');
+      const img = document.getElementById('modalImage');
+      img.src = src;
+      modal.style.display = 'flex';
+    }
+
+    function cerrarModal() {
+      document.getElementById('imageModal').style.display = 'none';
     }
 
     renderItems();
-    filterItems({ target: document.querySelector('.filters button') }, 'todos');
   </script>
 </body>
 
