@@ -1,105 +1,1260 @@
 window.itemsCharolas = [
-  { img: 'pagina1_img1.jpeg', tags: 'GENERAL HEADER', title: 'Checkout Metálico | 4 Charolas | GENERAL', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//' },
-  { img: 'pagina2_img1.jpeg', tags: 'FAROS HEADER', title: 'Checkout Metálico | 4 Charolas | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//' },
-  { img: 'pagina3_img1.jpeg', tags: 'HTU FAROS HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU' },
-  { img: 'pagina4_img1.jpeg', tags: 'HTU ZYN FAROS HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU_ZYN' },
-  { img: 'pagina5_img1.jpeg', tags: 'HTU ZYN FAROS HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina6_img1.jpeg', tags: 'ZYN FAROS HEADER', title: 'Checkout Metálico | 4 Charolas | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//ZYN' },
-  { img: 'pagina7_img1.jpeg', tags: 'HTU HEADER', title: 'Checkout Metálico | 4 Charolas | HTU', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//HTU' },
-  { img: 'pagina8_img1.jpeg', tags: 'HTU HEADER', title: 'Checkout Metálico | 4 Charolas | HTU', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//HTU_CHAROLAHTU' },
-  { img: 'pagina9_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina10_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//HTU_ZYN' },
-  { img: 'pagina11_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina12_img1.jpeg', tags: 'GENERAL HEADER ', title: 'Checkout Metálico | 4 Charolas | GENERAL', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_LM//' },
-  { img: 'pagina13_img1.jpeg', tags: 'HTU HEADER', title: 'Checkout Metálico | 4 Charolas | HTU', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_LM//HTU' },
-  { img: 'pagina14_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_LM//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina15_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_LM//HTU_ZYN' },
-  { img: 'pagina16_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina17_img1.jpeg', tags: 'ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_LM//ZYN' },
-  { img: 'pagina18_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//RESELLER_HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina19_img1.jpeg', tags: 'ZYN HEADER', title: 'Checkout Metálico | 4 Charolas | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//ZYN' },
-  { img: 'pagina20_img1.jpeg', tags: 'NOHEADER', title: 'Checkout Metálico | 4 Charolas | NOHEADER', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//' },
-  { img: 'pagina21_img1.jpeg', tags: 'NOHEADER FAROS', title: 'Checkout Metálico | 4 Charolas | NOHEADER | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_FAROS_LM//' },
-  { img: 'pagina22_img1.jpeg', tags: 'NOHEADER HTU FAROS', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_FAROS_LM//HTU' },
-  { img: 'pagina23_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_FAROS_LM//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina24_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN' },
-  { img: 'pagina25_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina26_img1.jpeg', tags: 'NOHEADER ZYN FAROS', title: 'Checkout Metálico | 4 Charolas | NOHEADER | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_FAROS_LM//ZYN' },
-  { img: 'pagina27_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//HTU' },
-  { img: 'pagina28_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//HTU_CHAROLAHTU' },
-  { img: 'pagina29_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina30_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//HTU_ZYN' },
-  { img: 'pagina31_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina32_img1.jpeg', tags: 'NOHEADER', title: 'Checkout Metálico | 4 Charolas | NOHEADER', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//' },
-  { img: 'pagina33_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//HTU' },
-  { img: 'pagina34_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//HTU_CHAROLAHTU' },
-  { img: 'pagina35_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina36_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//HTU_ZYN' },
-  { img: 'pagina37_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina38_img1.jpeg', tags: 'NOHEADER ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//ZYN' },
-  { img: 'pagina39_img1.jpeg', tags: 'NOHEADER ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER_LM//ZYN_CHAROLAZYN' },
-  { img: 'pagina40_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//ILUMA_HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina41_img1.jpeg', tags: 'NOHEADER ZYN', title: 'Checkout Metálico | 4 Charolas | NOHEADER | ZYN', code: 'OXXO_CHECKOUT METALICO_4 CHAROLAS_NOHEADER//ZYN' },
-  { img: 'pagina42_img1.jpeg', tags: 'GENERAL HEADER', title: 'Checkout Metálico |5 Charolas|  GENERAL', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//' },
-  { img: 'pagina43_img1.jpeg', tags: 'FAROS HEADER', title: 'Checkout Metálico |5 Charolas| FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS//' },
-  { img: 'pagina44_img1.jpeg', tags: 'HTU FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS//HTU' },
-  { img: 'pagina45_img1.jpeg', tags: 'HTU ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS//HTU_ZYN' },
-  { img: 'pagina46_img1.jpeg', tags: 'HTU ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina47_img1.jpeg', tags: 'FAROS HEADER', title: 'Checkout Metálico |5 Charolas| FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//' },
-  { img: 'pagina48_img1.jpeg', tags: 'HTU FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//HTU' },
-  { img: 'pagina49_img1.jpeg', tags: 'HTU FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//HTU_CHAROLAHTU' },
-  { img: 'pagina50_img1.jpeg', tags: 'HTU ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina51_img1.jpeg', tags: 'HTU ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//HTU_ZYN' },
-  { img: 'pagina52_img1.jpeg', tags: 'HTU ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina53_img1.jpeg', tags: 'ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//ZYN' },
-  { img: 'pagina54_img1.jpeg', tags: 'ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS_LM//ZYN_CHAROLAZYN' },
-  { img: 'pagina55_img1.jpeg', tags: 'ZYN FAROS HEADER', title: 'Checkout Metálico |5 Charolas| ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_FAROS//ZYN' },
-  { img: 'pagina56_img1.jpeg', tags: 'HTU HEADER', title: 'Checkout Metálico |5 Charolas| HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//HTU' },
-  { img: 'pagina57_img1.jpeg', tags: 'HTU HEADER', title: 'Checkout Metálico |5 Charolas| HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//HTU_CHAROLAHTU' },
-  { img: 'pagina58_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina59_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//HTU_ZYN' },
-  { img: 'pagina60_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina61_img1.jpeg', tags: 'GENERAL HEADER', title: 'Checkout Metálico |5 Charolas| GENERAL', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//' },
-  { img: 'pagina62_img1.jpeg', tags: 'HTU HEADER', title: 'Checkout Metálico |5 Charolas| HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//HTU' },
-  { img: 'pagina63_img1.jpeg', tags: 'HTU HEADER', title: 'Checkout Metálico |5 Charolas| HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//HTU_CHAROLAHTU' },
-  { img: 'pagina64_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina65_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//HTU_ZYN' },
-  { img: 'pagina66_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina67_img1.jpeg', tags: 'ZYN HEADER', title: 'Checkout Metálico |5 Charolas| ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//ZYN' },
-  { img: 'pagina68_img1.jpeg', tags: 'ZYN HEADER', title: 'Checkout Metálico |5 Charolas| ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER_LM//ZYN_CHAROLAZYN' },
-  { img: 'pagina69_img1.jpeg', tags: 'HTU ZYN HEADER', title: 'Checkout Metálico |5 Charolas| HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//ILUMA_HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina70_img1.jpeg', tags: 'ZYN HEADER', title: 'Checkout Metálico |5 Charolas| ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//ZYN' },
-  { img: 'pagina71_img1.jpeg', tags: 'ZYN HEADER', title: 'Checkout Metálico |5 Charolas| ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_HEADER//ZYN_CHAROLAZYN' },
-  { img: 'pagina72_img1.jpeg', tags: 'NOHEADER', title: 'Checkout Metálico |5 Charolas| NOHEADER', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//' },
-  { img: 'pagina73_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//CHAROLAHTU' },
-  { img: 'pagina74_img1.jpeg', tags: 'NOHEADER FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS//' },
-  { img: 'pagina75_img1.jpeg', tags: 'NOHEADER HTU FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS//HTU' },
-  { img: 'pagina76_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina77_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS//HTU_ZYN' },
-  { img: 'pagina78_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina79_img1.jpeg', tags: 'NOHEADER FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//' },
-  { img: 'pagina80_img1.jpeg', tags: 'NOHEADER HTU FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//HTU' },
-  { img: 'pagina81_img1.jpeg', tags: 'NOHEADER HTU FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_CHAROLAHTU' },
-  { img: 'pagina82_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina83_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN' },
-  { img: 'pagina84_img1.jpeg', tags: 'NOHEADER HTU ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina85_img1.jpeg', tags: 'NOHEADER ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//ZYN' },
-  { img: 'pagina86_img1.jpeg', tags: 'NOHEADER ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS_LM//ZYN_CHAROLAZYN' },
-  { img: 'pagina87_img1.jpeg', tags: 'NOHEADER ZYN FAROS', title: 'Checkout Metálico |5 Charolas| NOHEADER | ZYN | FAROS', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_FAROS//ZYN' },
-  { img: 'pagina88_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//HTU' },
-  { img: 'pagina89_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//HTU_CHAROLAHTU' },
-  { img: 'pagina90_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina91_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//HTU_ZYN' },
-  { img: 'pagina92_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina93_img1.jpeg', tags: 'NOHEADER', title: 'Checkout Metálico |5 Charolas| NOHEADER', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//' },
-  { img: 'pagina94_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//HTU' },
-  { img: 'pagina95_img1.jpeg', tags: 'NOHEADER HTU', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//HTU_CHAROLAHTU' },
-  { img: 'pagina96_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//HTU_CHAROLAHTU_ZYN' },
-  { img: 'pagina97_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//HTU_ZYN' },
-  { img: 'pagina98_img1.jpeg', tags: 'NOHEADER HTU ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | HTU | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//HTU_ZYN_CHAROLAZYN' },
-  { img: 'pagina99_img1.jpeg', tags: 'NOHEADER ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//ZYN' },
-  { img: 'pagina100_img1.jpeg', tags: 'NOHEADER ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER_LM//ZYN_CHAROLAZYN' },
-  { img: 'pagina101_img1.jpeg', tags: 'NOHEADER ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//ZYN' },
-  { img: 'pagina102_img1.jpeg', tags: 'NOHEADER ZYN', title: 'Checkout Metálico |5 Charolas| NOHEADER | ZYN', code: 'OXXO_CHECKOUT METALICO_5 CHAROLAS_NOHEADER//ZYN_CHAROLAZYN' }
-  
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina1_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina2_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina3_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina4_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina5_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina6_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina7_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina8_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina9_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina10_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina11_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina12_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina13_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina14_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina15_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina16_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina17_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina18_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina19_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina20_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina21_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina22_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina23_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina24_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina25_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina26_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina27_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina28_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina29_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina30_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina31_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina32_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina33_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina34_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina35_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina36_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina37_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina38_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina39_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina40_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina41_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina42_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina43_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina44_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina45_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina46_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina47_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina48_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina49_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina50_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina51_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina52_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina53_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina54_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina55_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina56_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina57_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina58_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina59_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina60_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina61_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina62_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina63_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina64_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina65_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina66_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina67_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina68_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina69_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina70_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina71_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina72_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina73_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina74_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina75_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina76_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina77_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina78_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina79_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina80_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina81_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina82_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina83_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina84_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina85_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina86_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina87_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina88_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina89_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina90_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina91_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina92_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina93_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina94_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina95_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina96_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina97_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina98_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina99_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | GENERAL",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER//",
+    "family": [
+      "GENERAL",
+      "HEADER"
+    ],
+    "tags": "GENERAL HEADER",
+    "img": "pagina100_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//",
+    "family": [
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "FAROS HEADER",
+    "img": "pagina101_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  },
+  {
+    "title": "Checkout Metálico | 4 Charolas | HTU | FAROS",
+    "code": "OXXO_CHECKOUT METALICO_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "family": [
+      "HTU",
+      "FAROS",
+      "HEADER"
+    ],
+    "tags": "HTU FAROS HEADER",
+    "img": "pagina102_img1.jpeg",
+    "categoria": "charolas",
+    "cadena": "oxxo"
+  }
 ];
