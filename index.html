@@ -273,14 +273,22 @@
   function renderItems() {
     const visibles = itemsVisibles.filter(item => {
       const familia = (item.family || []).map(f => f.toUpperCase());
-      const tipo = item.code.includes("BACKWALL") ? "Backwall" : "Metalico";
-      let charolas = "";
-      if (item.code.includes("7")) charolas = "7";
-      else if (item.code.includes("6")) charolas = "6";
-      else if (item.code.includes("5")) charolas = "5";
-      else if (item.code.includes("4")) charolas = "4";
-      else if (item.code.includes("3")) charolas = "3";
-      else charolas = "2";
+
+      let tipo = "Metalico";
+let charolas = "2"; // valor por defecto
+
+if (item.code.includes("BACKWALL")) {
+  tipo = "Backwall";
+  const match = item.code.match(/BACKWALL[_ ]?(\d)/);
+  if (match) charolas = match[1];
+} else if (item.code.includes("METALICO")) {
+  tipo = "Metalico";
+  const matchMetalico = item.code.match(/METALICO[_ ]?(\d)/);
+  const matchCharolas = item.code.match(/CHAROLAS[_ ]?(\d)/);
+  if (matchMetalico) charolas = matchMetalico[1];
+  else if (matchCharolas) charolas = matchCharolas[1];
+}
+
 
       const familiaMatch = !activeFilters.family.size || [...activeFilters.family].some(f => familia.includes(f));
       const tipoMatch = !activeFilters.tipo.size || activeFilters.tipo.has(tipo);
