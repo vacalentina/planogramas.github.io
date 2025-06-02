@@ -1,1016 +1,704 @@
 window.itemsBackwall = [
   {
-    "title": "Checkout Backwall | 4 Charolas | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER//",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER",
     "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
       "HEADER"
     ],
-    "tags": "HEADER",
-    "img": "img_001.jpg",
+    "tags": "BACKWALL 4 CHAROLAS HEADER",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM//",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Faros Lm",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM",
     "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM"
     ],
-    "tags": "FAROS HEADER",
-    "img": "img_002.jpg",
+    "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Faros Lm Htu Charolahtu",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU",
     "family": [
-      "HTU",
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "CHAROLAHTU"
     ],
-    "tags": "HTU FAROS HEADER",
-    "img": "img_003.jpg",
+    "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM//HTU_CHAROLAHTU_ZYN",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Faros Lm Htu Charolahtu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN",
+      "CHAROLAZYN2025"
     ],
-    "tags": "HTU ZYN FAROS HEADER",
-    "img": "img_004.jpg",
+    "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Faros Lm Htu Zyn",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN FAROS HEADER",
-    "img": "img_005.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER//HTU_ZYN",
-    "family": [
+      "LM",
       "HTU",
-      "ZYN",
-      "HEADER"
+      "ZYN"
     ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_006.jpg",
+    "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU ZYN",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM//",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Faros Lm Htu Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN",
     "family": [
-      "HEADER"
-    ],
-    "tags": "HEADER",
-    "img": "img_007.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_008.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM//HTU_ZYN_CHAROLAZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_009.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM//ZYN_CHAROLAZYN",
-    "family": [
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "ZYN HEADER",
-    "img": "img_010.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER//",
-    "family": [
-      "NOHEADER"
-    ],
-    "tags": "NOHEADER",
-    "img": "img_011.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_FAROS_LM//",
-    "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "NOHEADER"
+      "LM",
+      "HTU",
+      "ZYN",
+      "CHAROLAZYN"
     ],
-    "tags": "FAROS NOHEADER",
-    "img": "img_012.jpg",
+    "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_FAROS_LM//HTU",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Faros Lm Zyn",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_ZYN",
     "family": [
-      "HTU",
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "NOHEADER"
+      "LM",
+      "ZYN"
     ],
-    "tags": "HTU FAROS NOHEADER",
-    "img": "img_013.jpg",
+    "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM ZYN",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_ZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_FAROS_LM//HTU_CHAROLAHTU_ZYN",
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Htu Charolahtu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
     "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN",
+      "CHAROLAZYN2025"
+    ],
+    "tags": "BACKWALL 4 CHAROLAS HEADER HTU CHAROLAHTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Htu Zyn",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_HTU_ZYN",
+    "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
+      "HTU",
+      "ZYN"
+    ],
+    "tags": "BACKWALL 4 CHAROLAS HEADER HTU ZYN",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_HTU_ZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Lm",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM",
+    "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
+      "LM"
+    ],
+    "tags": "BACKWALL 4 CHAROLAS HEADER LM",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Lm Htu Charolahtu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
+    "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
+      "LM",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN",
+      "CHAROLAZYN2025"
+    ],
+    "tags": "BACKWALL 4 CHAROLAS HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Lm Htu Zyn",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_ZYN",
+    "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
+      "LM",
+      "HTU",
+      "ZYN"
+    ],
+    "tags": "BACKWALL 4 CHAROLAS HEADER LM HTU ZYN",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_ZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Lm Htu Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN",
+    "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
+      "LM",
       "HTU",
       "ZYN",
+      "CHAROLAZYN"
+    ],
+    "tags": "BACKWALL 4 CHAROLAS HEADER LM HTU ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 4 Charolas Header Lm Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025",
+    "family": [
+      "BACKWALL",
+      "4 CHAROLAS",
+      "HEADER",
+      "LM",
+      "ZYN",
+      "CHAROLAZYN2025"
+    ],
+    "tags": "BACKWALL 4 CHAROLAS HEADER LM ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "NOHEADER"
+      "LM"
     ],
-    "tags": "HTU ZYN FAROS NOHEADER",
-    "img": "img_014.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "NOHEADER"
+      "LM",
+      "HTU"
     ],
-    "tags": "HTU ZYN FAROS NOHEADER",
-    "img": "img_015.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu Charolahtu",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN FAROS HEADER NOHEADER",
-    "img": "img_016.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER//HTU",
-    "family": [
+      "LM",
       "HTU",
-      "NOHEADER"
+      "CHAROLAHTU"
     ],
-    "tags": "HTU NOHEADER",
-    "img": "img_017.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER//HTU_ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu Charolahtu Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN",
     "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN  NOHEADER",
-    "img": "img_018.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_019.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_LM//",
-    "family": [
-      "NOHEADER"
-    ],
-    "tags": "NOHEADER",
-    "img": "img_020.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_LM//HTU",
-    "family": [
-      "HTU",
-      "NOHEADER"
-    ],
-    "tags": "HTU NOHEADER",
-    "img": "img_021.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_LM//HTU_CHAROLAHTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_022.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_LM//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_023.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER_LM//HTU_ZYN_CHAROLAZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_024.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 4 Charolas | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_4 CHAROLAS_NOHEADER//ZYN",
-    "family": [
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "ZYN NOHEADER",
-    "img": "img_025.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//",
-    "family": [
-      "HEADER"
-    ],
-    "tags": "HEADER",
-    "img": "img_026.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//CHAROLAHTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_027.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS//",
-    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN"
     ],
-    "tags": "FAROS HEADER",
-    "img": "img_028.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS//HTU_CHAROLAHTU_ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu Charolahtu Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN",
+      "CHAROLAZYN"
     ],
-    "tags": "HTU ZYN FAROS HEADER",
-    "img": "img_029.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS//HTU_ZYN_CHAROLAZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu Charolahtu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN",
+      "CHAROLAZYN2025"
     ],
-    "tags": "HTU ZYN FAROS HEADER",
-    "img": "img_030.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN",
     "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "ZYN"
     ],
-    "tags": "FAROS HEADER",
-    "img": "img_031.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//HTU",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN",
     "family": [
-      "HTU",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "ZYN",
+      "CHAROLAZYN"
     ],
-    "tags": "HTU FAROS HEADER",
-    "img": "img_032.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//HTU_CHAROLAHTU",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Htu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN2025",
     "family": [
-      "HTU",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "HTU",
+      "ZYN",
+      "CHAROLAZYN2025"
     ],
-    "tags": "HTU FAROS HEADER",
-    "img": "img_033.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//HTU_CHAROLAHTU_ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "ZYN"
     ],
-    "tags": "HTU ZYN FAROS HEADER",
-    "img": "img_034.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//HTU_ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
+      "LM",
+      "ZYN",
+      "CHAROLAZYN"
     ],
-    "tags": "HTU ZYN FAROS HEADER",
-    "img": "img_035.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Faros Lm Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN2025",
     "family": [
-      "HTU",
-      "ZYN",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "FAROS",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN FAROS HEADER",
-    "img": "img_036.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//ZYN",
-    "family": [
+      "LM",
       "ZYN",
-      "FAROS",
-      "HEADER"
+      "CHAROLAZYN2025"
     ],
-    "tags": "ZYN FAROS HEADER",
-    "img": "img_037.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | FAROS | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM//ZYN_CHAROLAZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Htu",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU",
     "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "HTU"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER HTU",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Htu Charolahtu",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "HTU",
+      "CHAROLAHTU"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER HTU CHAROLAHTU",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Htu Charolahtu Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER HTU CHAROLAHTU ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Htu Charolahtu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "HTU",
+      "CHAROLAHTU",
       "ZYN",
-      "FAROS",
-      "HEADER"
+      "CHAROLAZYN2025"
     ],
-    "tags": "ZYN FAROS HEADER",
-    "img": "img_038.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER HTU CHAROLAHTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//HTU",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Htu Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_ZYN",
     "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "HTU",
-      "HEADER"
+      "ZYN"
     ],
-    "tags": "HTU HEADER",
-    "img": "img_039.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER HTU ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_ZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//HTU_CHAROLAHTU",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Htu Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_ZYN_CHAROLAZYN",
     "family": [
-      "HTU",
-      "HEADER"
-    ],
-    "tags": "HTU HEADER",
-    "img": "img_040.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//HTU_CHAROLAHTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_041.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_042.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//HTU_ZYN_CHAROLAZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_043.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//",
-    "family": [
-      "HEADER"
-    ],
-    "tags": "HEADER",
-    "img": "img_044.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//HTU",
-    "family": [
-      "HTU",
-      "HEADER"
-    ],
-    "tags": "HTU HEADER",
-    "img": "img_045.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//HTU_CHAROLAHTU",
-    "family": [
-      "HTU",
-      "HEADER"
-    ],
-    "tags": "HTU HEADER",
-    "img": "img_046.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//HTU_CHAROLAHTU_ZYN",
-    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "HTU",
       "ZYN",
-      "HEADER"
+      "CHAROLAZYN"
     ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_047.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER HTU ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_ZYN_CHAROLAZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//HTU_ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM",
     "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Htu",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
+      "HTU"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Htu Charolahtu",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
+      "HTU",
+      "CHAROLAHTU"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU CHAROLAHTU",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Htu Charolahtu Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN",
+      "CHAROLAZYN"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Htu Charolahtu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
+      "HTU",
+      "CHAROLAHTU",
+      "ZYN",
+      "CHAROLAZYN2025"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Htu Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
+      "HTU",
+      "ZYN"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Htu Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
       "HTU",
       "ZYN",
-      "HEADER"
+      "CHAROLAZYN"
     ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_048.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//HTU_ZYN_CHAROLAZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Htu Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN2025",
     "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
       "HTU",
       "ZYN",
-      "HEADER"
+      "CHAROLAZYN2025"
     ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_049.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN",
     "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
+      "ZYN"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Zyn Charolazyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
       "ZYN",
-      "HEADER"
+      "CHAROLAZYN"
     ],
-    "tags": "ZYN HEADER",
-    "img": "img_050.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM ZYN CHAROLAZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM//ZYN_CHAROLAZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Lm Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025",
     "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "LM",
       "ZYN",
-      "HEADER"
+      "CHAROLAZYN2025"
     ],
-    "tags": "ZYN HEADER",
-    "img": "img_051.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER LM ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
   },
   {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//RESELLER_HTU_CHAROLAHTU_ZYN",
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Zyn",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_ZYN",
     "family": [
-      "HTU",
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
+      "ZYN"
+    ],
+    "tags": "BACKWALL 5 CHAROLAS HEADER ZYN",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_ZYN.jpg",
+    "categoria": "backwall"
+  },
+  {
+    "title": "Checkout Backwall | Backwall 5 Charolas Header Zyn Charolazyn2025",
+    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_ZYN_CHAROLAZYN2025",
+    "family": [
+      "BACKWALL",
+      "5 CHAROLAS",
+      "HEADER",
       "ZYN",
-      "HEADER"
+      "CHAROLAZYN2025"
     ],
-    "tags": "HTU ZYN HEADER",
-    "img": "img_052.jpg",
+    "tags": "BACKWALL 5 CHAROLAS HEADER ZYN CHAROLAZYN2025",
+    "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_ZYN_CHAROLAZYN2025.jpg",
     "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | HEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER//ZYN",
-    "family": [
-      "ZYN",
-      "HEADER"
-    ],
-    "tags": "ZYN HEADER",
-    "img": "img_053.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//",
-    "family": [
-      "NOHEADER"
-    ],
-    "tags": "NOHEADER",
-    "img": "img_054.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS//",
-    "family": [
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "FAROS NOHEADER",
-    "img": "img_055.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN FAROS NOHEADER",
-    "img": "img_056.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS//HTU_ZYN_CHAROLAZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN FAROS NOHEADER",
-    "img": "img_057.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//",
-    "family": [
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "FAROS NOHEADER",
-    "img": "img_058.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//HTU",
-    "family": [
-      "HTU",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU FAROS NOHEADER",
-    "img": "img_059.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_CHAROLAHTU",
-    "family": [
-      "HTU",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU FAROS NOHEADER",
-    "img": "img_060.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_CHAROLAHTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN FAROS NOHEADER",
-    "img": "img_061.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN FAROS NOHEADER",
-    "img": "img_062.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//HTU_ZYN_CHAROLAZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN FAROS NOHEADER",
-    "img": "img_063.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//ZYN",
-    "family": [
-      "ZYN",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "ZYN FAROS NOHEADER",
-    "img": "img_064.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | FAROS | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_LM//ZYN_CHAROLAZYN",
-    "family": [
-      "ZYN",
-      "FAROS",
-      "NOHEADER"
-    ],
-    "tags": "ZYN FAROS NOHEADER",
-    "img": "img_065.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//HTU",
-    "family": [
-      "HTU",
-      "NOHEADER"
-    ],
-    "tags": "HTU NOHEADER",
-    "img": "img_066.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//HTU_CHAROLAHTU",
-    "family": [
-      "HTU",
-      "NOHEADER"
-    ],
-    "tags": "HTU NOHEADER",
-    "img": "img_067.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//HTU_CHAROLAHTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_068.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_069.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//HTU_ZYN_CHAROLAZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_070.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//",
-    "family": [
-      "NOHEADER"
-    ],
-    "tags": "NOHEADER",
-    "img": "img_071.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//HTU",
-    "family": [
-      "HTU",
-      "NOHEADER"
-    ],
-    "tags": "HTU NOHEADER",
-    "img": "img_072.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//HTU_CHAROLAHTU",
-    "family": [
-      "HTU",
-      "NOHEADER"
-    ],
-    "tags": "HTU NOHEADER",
-    "img": "img_073.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//HTU_CHAROLAHTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_074.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//HTU_ZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_075.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | HTU | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//HTU_ZYN_CHAROLAZYN",
-    "family": [
-      "HTU",
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "HTU ZYN NOHEADER",
-    "img": "img_076.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//ZYN",
-    "family": [
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "ZYN NOHEADER",
-    "img": "img_077.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_LM//ZYN_CHAROLAZYN",
-    "family": [
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "ZYN NOHEADER",
-    "img": "img_078.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//ZYN",
-    "family": [
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "ZYN NOHEADER",
-    "img": "img_079.jpg",
-    "categoria": "backwall"
-  },
-  {
-    "title": "Checkout Backwall | 5 Charolas | ZYN | NOHEADER",
-    "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER//ZYN_CHAROLAZYN",
-    "family": [
-      "ZYN",
-      "NOHEADER"
-    ],
-    "tags": "ZYN NOHEADER",
-    "img": "img_080.jpg",
-    "categoria": "backwall"
-  },
-  {
-   "title": "Checkout Backwall | 4 Charolas | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN",
-   "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN",
-   "family": ["HEADER", "FAROS", "LM", "HTU", "CHAROLAHTU", "ZYN"],
-   "tags": "HEADER FAROS LM HTU CHAROLAHTU ZYN",
-   "img": "img_081.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 4 Charolas | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN",
-   "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN",
-   "family": ["HEADER", "FAROS", "LM", "HTU", "ZYN", "CHAROLAZYN"],
-   "tags": "HEADER FAROS LM HTU ZYN CHAROLAZYN",
-   "img": "img_082.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 4 Charolas | HEADER | HTU | ZYN",
-   "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_HTU_ZYN",
-   "family": ["HEADER", "HTU", "ZYN"],
-   "tags": "HEADER HTU ZYN",
-   "img": "img_083.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 4 Charolas | HEADER | LM | HTU | ZYN | CHAROLAZYN",
-   "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN",
-   "family": ["HEADER", "LM", "HTU", "ZYN", "CHAROLAZYN"],
-   "tags": "HEADER LM HTU ZYN CHAROLAZYN",
-   "img": "img_084.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 4 Charolas | HEADER | LM | ZYN | CHAROLAZYN",
-   "code": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN",
-   "family": ["HEADER", "LM", "ZYN", "CHAROLAZYN"],
-   "tags": "HEADER LM ZYN CHAROLAZYN",
-   "img": "img_085.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 5 Charolas | HEADER | FAROS | HTU | CHAROLAHTU | ZYN",
-   "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_HTU_CHAROLAHTU_ZYN",
-   "family": ["HEADER", "FAROS", "HTU", "CHAROLAHTU", "ZYN"],
-   "tags": "HEADER FAROS HTU CHAROLAHTU ZYN",
-   "img": "img_086.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 5 Charolas | HEADER | FAROS | HTU | ZYN | CHAROLAZYN",
-   "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_HTU_ZYN_CHAROLAZYN",
-   "family": ["HEADER", "FAROS", "HTU", "ZYN", "CHAROLAZYN"],
-   "tags": "HEADER FAROS HTU ZYN CHAROLAZYN",
-   "img": "img_087.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 5 Charolas | HEADER | HTU | CHAROLAHTU | ZYN",
-   "code": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN",
-   "family": ["HEADER", "HTU", "CHAROLAHTU", "ZYN"],
-   "tags": "HEADER HTU CHAROLAHTU ZYN",
-   "img": "img_088.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 5 Charolas | NOHEADER | FAROS | HTU | ZYN | CHAROLAZYN",
-   "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_FAROS_HTU_ZYN_CHAROLAZYN",
-   "family": ["NOHEADER", "FAROS", "HTU", "ZYN", "CHAROLAZYN"],
-   "tags": "NOHEADER FAROS HTU ZYN CHAROLAZYN",
-   "img": "img_089.jpg",
-   "categoria": "backwall"
- },
- {
-   "title": "Checkout Backwall | 5 Charolas | NOHEADER | HTU | CHAROLAHTU | ZYN",
-   "code": "OXXO_BACKWALL_5 CHAROLAS_NOHEADER_HTU_CHAROLAHTU_ZYN",
-   "family": ["NOHEADER", "HTU", "CHAROLAHTU", "ZYN"],
-   "tags": "NOHEADER HTU CHAROLAHTU ZYN",
-   "img": "img_090.jpg",
-   "categoria": "backwall"
- }
+  }
 ];
