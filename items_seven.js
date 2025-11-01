@@ -1,318 +1,99 @@
 window.itemsSeven = [{
-        "title": "BACKWALL | 2 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_2 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
+        "title": "2 | FT | HEADER | FAROS | 25 | LM | RESELLER | HTU | ZYN",
+        "code": "711_2_FT_HEADER_FAROS_25_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "2 FT",
+            "2",
+            "FT",
             "HEADER",
             "FAROS",
+            "25",
             "LM",
             "RESELLER",
             "HTU",
-            "CHAROLAHTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 2 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_2 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "2 FT HEADER FAROS 25 LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_2 FT_HEADER_FAROS+25_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 3 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_3 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN",
+        "title": "2 | FT | HEADER | LM | RESELLER | HTU | ZYN",
+        "code": "711_2_FT_HEADER_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 3 FT HEADER FAROS LM HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_3 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_3 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 3 FT HEADER FAROS LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_3 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | FAROS | LM | HTU | ZYN",
-        "code": "711_BACKWALL_3 FT_HEADER_FAROS_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 3 FT HEADER FAROS LM HTU ZYN",
-        "img": "711_BACKWALL_3 FT_HEADER_FAROS_LM_HTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_3 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 3 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_3 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_3 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 3 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_3 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_3 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 3 FT HEADER LM HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_3 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_3 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 3 FT HEADER LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_3 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | LM | HTU | ZYN",
-        "code": "711_BACKWALL_3 FT_HEADER_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "3 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 3 FT HEADER LM HTU ZYN",
-        "img": "711_BACKWALL_3 FT_HEADER_LM_HTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 3 FT | HEADER | LM | RESELLER | HTU | ZYN",
-        "code": "711_BACKWALL_3 FT_HEADER_LM_RESELLER_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "3 FT",
+            "2",
+            "FT",
             "HEADER",
             "LM",
             "RESELLER",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 3 FT HEADER LM RESELLER HTU ZYN",
-        "img": "711_BACKWALL_3 FT_HEADER_LM_RESELLER_HTU_ZYN.jpg",
+        "tags": "2 FT HEADER LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_2 FT_HEADER_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 3 FT | HEADER | LM | RESELLER | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_3 FT_HEADER_LM_RESELLER_HTU_ZYN_LATTOW",
+        "title": "3 | FT | HEADER | FAROS | 25 | LM | HTU | ZYN",
+        "code": "711_3_FT_HEADER_FAROS_25_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "3 FT",
+            "3",
+            "FT",
             "HEADER",
+            "FAROS",
+            "25",
+            "LM",
+            "HTU",
+            "ZYN"
+        ],
+        "tags": "3 FT HEADER FAROS 25 LM HTU ZYN",
+        "img": "1125_711_BWLL_3 FT_HEADER_FAROS+25_LM--HTU_ZYN.jpg",
+        "categoria": "backwall",
+        "cadena": "711"
+    },
+    {
+        "title": "3 | FT | HEADER | FAROS | 25 | LM | RESELLER | HTU | ZYN",
+        "code": "711_3_FT_HEADER_FAROS_25_LM_RESELLER_HTU_ZYN",
+        "family": [
+            "3",
+            "FT",
+            "HEADER",
+            "FAROS",
+            "25",
             "LM",
             "RESELLER",
             "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 3 FT HEADER LM RESELLER HTU ZYN LATTOW",
-        "img": "711_BACKWALL_3 FT_HEADER_LM_RESELLER_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "3 FT HEADER FAROS 25 LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_3 FT_HEADER_FAROS+25_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
+        "title": "3 | FT | HEADER | FAROS | LM | HTU | ZYN",
+        "code": "711_3_FT_HEADER_FAROS_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | HTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 FT",
+            "3",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM HTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_ZYN.jpg",
+        "tags": "3 FT HEADER FAROS LM HTU ZYN",
+        "img": "1125_711_BWLL_3 FT_HEADER_FAROS_LM--HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_ZYN_LATTOW",
+        "title": "3 | FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN",
+        "code": "711_3_FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM HTU ZYN LATTOW",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 FT",
+            "3",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
@@ -320,233 +101,248 @@ window.itemsSeven = [{
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM RESELLER HTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN.jpg",
+        "tags": "3 FT HEADER FAROS LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_3 FT_HEADER_FAROS_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 4 FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN_LATTOW",
+        "title": "3 | FT | HEADER | LM | HTU | ZYN",
+        "code": "711_3_FT_HEADER_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "4 FT",
+            "3",
+            "FT",
+            "HEADER",
+            "LM",
+            "HTU",
+            "ZYN"
+        ],
+        "tags": "3 FT HEADER LM HTU ZYN",
+        "img": "1125_711_BWLL_3 FT_HEADER_LM--HTU_ZYN.jpg",
+        "categoria": "backwall",
+        "cadena": "711"
+    },
+    {
+        "title": "3 | FT | HEADER | LM | RESELLER | HTU | ZYN",
+        "code": "711_3_FT_HEADER_LM_RESELLER_HTU_ZYN",
+        "family": [
+            "3",
+            "FT",
+            "HEADER",
+            "LM",
+            "RESELLER",
+            "HTU",
+            "ZYN"
+        ],
+        "tags": "3 FT HEADER LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_3 FT_HEADER_LM--RESELLER_HTU_ZYN.jpg",
+        "categoria": "backwall",
+        "cadena": "711"
+    },
+    {
+        "title": "4 | FT | HEADER | FAROS | 25 | LM | HTU | ZYN",
+        "code": "711_4_FT_HEADER_FAROS_25_LM_HTU_ZYN",
+        "family": [
+            "4",
+            "FT",
+            "HEADER",
+            "FAROS",
+            "25",
+            "LM",
+            "HTU",
+            "ZYN"
+        ],
+        "tags": "4 FT HEADER FAROS 25 LM HTU ZYN",
+        "img": "1125_711_BWLL_4 FT_HEADER_FAROS+25_LM--HTU_ZYN.jpg",
+        "categoria": "backwall",
+        "cadena": "711"
+    },
+    {
+        "title": "4 | FT | HEADER | FAROS | 25 | LM | RESELLER | HTU | ZYN",
+        "code": "711_4_FT_HEADER_FAROS_25_LM_RESELLER_HTU_ZYN",
+        "family": [
+            "4",
+            "FT",
+            "HEADER",
+            "FAROS",
+            "25",
+            "LM",
+            "RESELLER",
+            "HTU",
+            "ZYN"
+        ],
+        "tags": "4 FT HEADER FAROS 25 LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_4 FT_HEADER_FAROS+25_LM--RESELLER_HTU_ZYN.jpg",
+        "categoria": "backwall",
+        "cadena": "711"
+    },
+    {
+        "title": "4 | FT | HEADER | FAROS | LM | HTU | ZYN",
+        "code": "711_4_FT_HEADER_FAROS_LM_HTU_ZYN",
+        "family": [
+            "4",
+            "FT",
+            "HEADER",
+            "FAROS",
+            "LM",
+            "HTU",
+            "ZYN"
+        ],
+        "tags": "4 FT HEADER FAROS LM HTU ZYN",
+        "img": "1125_711_BWLL_4 FT_HEADER_FAROS_LM--HTU_ZYN.jpg",
+        "categoria": "backwall",
+        "cadena": "711"
+    },
+    {
+        "title": "4 | FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN",
+        "code": "711_4_FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN",
+        "family": [
+            "4",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
             "RESELLER",
             "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 4 FT HEADER FAROS LM RESELLER HTU ZYN LATTOW",
-        "img": "711_BACKWALL_4 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 4 FT HEADER LM HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "4 FT HEADER FAROS LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_4 FT_HEADER_FAROS_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 4 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_4 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
+        "title": "4 | FT | HEADER | LM | HTU | ZYN",
+        "code": "711_4_FT_HEADER_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 4 FT HEADER LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_4 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | LM | HTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 FT",
+            "4",
+            "FT",
             "HEADER",
             "LM",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 4 FT HEADER LM HTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_LM_HTU_ZYN.jpg",
+        "tags": "4 FT HEADER LM HTU ZYN",
+        "img": "1125_711_BWLL_4 FT_HEADER_LM--HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 4 FT | HEADER | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
+        "title": "4 | FT | HEADER | LM | RESELLER | HTU | ZYN",
+        "code": "711_4_FT_HEADER_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 4 FT HEADER LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 4 FT | HEADER | LM | RESELLER | HTU | ZYN",
-        "code": "711_BACKWALL_4 FT_HEADER_LM_RESELLER_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 FT",
+            "4",
+            "FT",
             "HEADER",
             "LM",
             "RESELLER",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 4 FT HEADER LM RESELLER HTU ZYN",
-        "img": "711_BACKWALL_4 FT_HEADER_LM_RESELLER_HTU_ZYN.jpg",
+        "tags": "4 FT HEADER LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_4 FT_HEADER_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 4 FT | HEADER | LM | RESELLER | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_4 FT_HEADER_LM_RESELLER_HTU_ZYN_LATTOW",
+        "title": "5 | FT | HEADER | FAROS | 25 | LM | HTU | ZYN",
+        "code": "711_5_FT_HEADER_FAROS_25_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "4 FT",
-            "HEADER",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 4 FT HEADER LM RESELLER HTU ZYN LATTOW",
-        "img": "711_BACKWALL_4 FT_HEADER_LM_RESELLER_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
+            "25",
             "LM",
             "HTU",
-            "CHAROLAHTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "5 FT HEADER FAROS 25 LM HTU ZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS+25_LM--HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
+        "title": "5 | FT | HEADER | FAROS | 25 | LM | HTU | ZYN | CHAROLAZYN",
+        "code": "711_5_FT_HEADER_FAROS_25_LM_HTU_ZYN_CHAROLAZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
+            "25",
             "LM",
             "HTU",
-            "CHAROLAHTU",
             "ZYN",
             "CHAROLAZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "5 FT HEADER FAROS 25 LM HTU ZYN CHAROLAZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS+25_LM--HTU_ZYN_CHAROLAZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN_LATTOW",
+        "title": "5 | FT | HEADER | FAROS | 25 | LM | RESELLER | HTU | ZYN",
+        "code": "711_5_FT_HEADER_FAROS_25_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
+            "25",
             "LM",
+            "RESELLER",
             "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN",
-            "LATTOW"
+            "ZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN_LATTOW.jpg",
+        "tags": "5 FT HEADER FAROS 25 LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS+25_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
+        "title": "5 | FT | HEADER | FAROS | 25 | LM | RESELLER | HTU | ZYN | CHAROLAZYN",
+        "code": "711_5_FT_HEADER_FAROS_25_LM_RESELLER_HTU_ZYN_CHAROLAZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
+            "25",
             "LM",
+            "RESELLER",
             "HTU",
-            "CHAROLAHTU",
             "ZYN",
-            "LATTOW"
+            "CHAROLAZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
+        "tags": "5 FT HEADER FAROS 25 LM RESELLER HTU ZYN CHAROLAZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS+25_LM--RESELLER_HTU_ZYN_CHAROLAZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | HTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_ZYN",
+        "title": "5 | FT | HEADER | FAROS | LM | HTU | ZYN",
+        "code": "711_5_FT_HEADER_FAROS_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM HTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_ZYN.jpg",
+        "tags": "5 FT HEADER FAROS LM HTU ZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS_LM--HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN",
+        "title": "5 | FT | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN",
+        "code": "711_5_FT_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
@@ -554,74 +350,17 @@ window.itemsSeven = [{
             "ZYN",
             "CHAROLAZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM HTU ZYN CHAROLAZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "5 FT HEADER FAROS LM HTU ZYN CHAROLAZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS_LM--HTU_ZYN_CHAROLAZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_ZYN_LATTOW",
+        "title": "5 | FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN",
+        "code": "711_5_FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM HTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
@@ -629,480 +368,527 @@ window.itemsSeven = [{
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM RESELLER HTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN.jpg",
+        "tags": "5 FT HEADER FAROS LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN_LATTOW",
+        "title": "5 | FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN | CHAROLAZYN",
+        "code": "711_5_FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN_CHAROLAZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
             "RESELLER",
             "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER FAROS LM RESELLER HTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 5 FT HEADER LM HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
             "ZYN",
             "CHAROLAZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "5 FT HEADER FAROS LM RESELLER HTU ZYN CHAROLAZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_FAROS_LM--RESELLER_HTU_ZYN_CHAROLAZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
+        "title": "5 | FT | HEADER | LM | HTU | ZYN",
+        "code": "711_5_FT_HEADER_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | LM | HTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "LM",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER LM HTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN.jpg",
+        "tags": "5 FT HEADER LM HTU ZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_LM--HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | LM | HTU | ZYN | CHAROLAZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN_CHAROLAZYN",
+        "title": "5 | FT | HEADER | LM | HTU | ZYN | CHAROLAZYN",
+        "code": "711_5_FT_HEADER_LM_HTU_ZYN_CHAROLAZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "LM",
             "HTU",
             "ZYN",
             "CHAROLAZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER LM HTU ZYN CHAROLAZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "5 FT HEADER LM HTU ZYN CHAROLAZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_LM--HTU_ZYN_CHAROLAZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | LM | HTU | ZYN | CHAROLAZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN_CHAROLAZYN_LATTOW",
+        "title": "5 | FT | HEADER | LM | RESELLER | HTU | ZYN",
+        "code": "711_5_FT_HEADER_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER LM HTU ZYN CHAROLAZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN_CHAROLAZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | LM | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER LM HTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 5 FT HEADER LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | LM | RESELLER | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "5 FT",
-            "HEADER",
-            "LM",
-            "RESELLER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER LM RESELLER HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 5 FT | HEADER | LM | RESELLER | HTU | ZYN",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "LM",
             "RESELLER",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 5 FT HEADER LM RESELLER HTU ZYN",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_ZYN.jpg",
+        "tags": "5 FT HEADER LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 5 FT | HEADER | LM | RESELLER | HTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_ZYN_LATTOW",
+        "title": "5 | FT | HEADER | LM | RESELLER | HTU | ZYN | CHAROLAZYN",
+        "code": "711_5_FT_HEADER_LM_RESELLER_HTU_ZYN_CHAROLAZYN",
         "family": [
-            "BACKWALL",
-            "5 FT",
+            "5",
+            "FT",
             "HEADER",
             "LM",
             "RESELLER",
             "HTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 5 FT HEADER LM RESELLER HTU ZYN LATTOW",
-        "img": "711_BACKWALL_5 FT_HEADER_LM_RESELLER_HTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 6 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "6 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
             "ZYN",
             "CHAROLAZYN"
         ],
-        "tags": "BACKWALL 6 FT HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "5 FT HEADER LM RESELLER HTU ZYN CHAROLAZYN",
+        "img": "1125_711_BWLL_5 FT_HEADER_LM--RESELLER_HTU_ZYN_CHAROLAZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 6 FT | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_6 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
+        "title": "6 | FT | HEADER | FAROS | LM | RESELLER | HTU | ZYN",
+        "code": "711_6_FT_HEADER_FAROS_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "6 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 6 FT HEADER FAROS LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_6 FT_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 6 FT | HEADER | FAROS | LM | HTU | ZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_FAROS_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "6 FT",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 6 FT HEADER FAROS LM HTU ZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_FAROS_LM_HTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 6 FT | HEADER | FAROS | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "6 FT",
+            "6",
+            "FT",
             "HEADER",
             "FAROS",
             "LM",
             "RESELLER",
             "HTU",
-            "CHAROLAHTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 6 FT HEADER FAROS LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_FAROS_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "6 FT HEADER FAROS LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_6 FT_HEADER_FAROS_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 6 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN",
+        "title": "6 | FT | HEADER | LM | HTU | ZYN",
+        "code": "711_6_FT_HEADER_LM_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "6 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 6 FT HEADER LM HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 6 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "6 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN"
-        ],
-        "tags": "BACKWALL 6 FT HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 6 FT | HEADER | LM | HTU | CHAROLAHTU | ZYN | LATTOW",
-        "code": "711_BACKWALL_6 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW",
-        "family": [
-            "BACKWALL",
-            "6 FT",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "LATTOW"
-        ],
-        "tags": "BACKWALL 6 FT HEADER LM HTU CHAROLAHTU ZYN LATTOW",
-        "img": "711_BACKWALL_6 FT_HEADER_LM_HTU_CHAROLAHTU_ZYN_LATTOW.jpg",
-        "categoria": "backwall",
-        "cadena": "711"
-    },
-    {
-        "title": "BACKWALL | 6 FT | HEADER | LM | HTU | ZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "6 FT",
+            "6",
+            "FT",
             "HEADER",
             "LM",
             "HTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 6 FT HEADER LM HTU ZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_LM_HTU_ZYN.jpg",
+        "tags": "6 FT HEADER LM HTU ZYN",
+        "img": "1125_711_BWLL_6 FT_HEADER_LM--HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 6 FT | HEADER | LM | HTU | ZYN | CHAROLAZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_LM_HTU_ZYN_CHAROLAZYN",
+        "title": "6 | FT | HEADER | LM | HTU | ZYN | CHAROLAZYN",
+        "code": "711_6_FT_HEADER_LM_HTU_ZYN_CHAROLAZYN",
         "family": [
-            "BACKWALL",
-            "6 FT",
+            "6",
+            "FT",
             "HEADER",
             "LM",
             "HTU",
             "ZYN",
             "CHAROLAZYN"
         ],
-        "tags": "BACKWALL 6 FT HEADER LM HTU ZYN CHAROLAZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_LM_HTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "6 FT HEADER LM HTU ZYN CHAROLAZYN",
+        "img": "1125_711_BWLL_6 FT_HEADER_LM--HTU_ZYN_CHAROLAZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
     {
-        "title": "BACKWALL | 6 FT | HEADER | LM | RESELLER | HTU | CHAROLAHTU | ZYN",
-        "code": "711_BACKWALL_6 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN",
+        "title": "6 | FT | HEADER | LM | RESELLER | HTU | ZYN",
+        "code": "711_6_FT_HEADER_LM_RESELLER_HTU_ZYN",
         "family": [
-            "BACKWALL",
-            "6 FT",
+            "6",
+            "FT",
             "HEADER",
             "LM",
             "RESELLER",
             "HTU",
-            "CHAROLAHTU",
             "ZYN"
         ],
-        "tags": "BACKWALL 6 FT HEADER LM RESELLER HTU CHAROLAHTU ZYN",
-        "img": "711_BACKWALL_6 FT_HEADER_LM_RESELLER_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "6 FT HEADER LM RESELLER HTU ZYN",
+        "img": "1125_711_BWLL_6 FT_HEADER_LM--RESELLER_HTU_ZYN.jpg",
         "categoria": "backwall",
         "cadena": "711"
     },
-        {
-        "title": "NS1 | RESELLER | LM | FAROS | 25",
-        "code": "0925_711_NS1_RESELLER_LM_FAROS_25",
+    {
+        "title": "RESELLER",
+        "code": "711_RESELLER",
         "family": [
-            "NS1",
+            "RESELLER"
+        ],
+        "tags": "RESELLER",
+        "img": "1125_711_NS1200_Reseller.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | FAROS",
+        "code": "711_RESELLER_FAROS",
+        "family": [
+            "RESELLER",
+            "FAROS"
+        ],
+        "tags": "RESELLER FAROS",
+        "img": "1125_711_NS1200_Reseller_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM",
+        "code": "711_RESELLER_LM",
+        "family": [
+            "RESELLER",
+            "LM"
+        ],
+        "tags": "RESELLER LM",
+        "img": "1125_711_NS1200_Reseller_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM | FAROS",
+        "code": "711_RESELLER_LM_FAROS",
+        "family": [
+            "RESELLER",
+            "LM",
+            "FAROS"
+        ],
+        "tags": "RESELLER LM FAROS",
+        "img": "1125_711_NS1200_Reseller_LM_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN",
+        "code": "711_ZYN",
+        "family": [
+            "ZYN"
+        ],
+        "tags": "ZYN",
+        "img": "1125_711_NS1200_Zyn.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | FAROS",
+        "code": "711_ZYN_FAROS",
+        "family": [
+            "ZYN",
+            "FAROS"
+        ],
+        "tags": "ZYN FAROS",
+        "img": "1125_711_NS1200_Zyn_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | LM",
+        "code": "711_ZYN_LM",
+        "family": [
+            "ZYN",
+            "LM"
+        ],
+        "tags": "ZYN LM",
+        "img": "1125_711_NS1200_Zyn_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | LM | FAROS",
+        "code": "711_ZYN_LM_FAROS",
+        "family": [
+            "ZYN",
+            "LM",
+            "FAROS"
+        ],
+        "tags": "ZYN LM FAROS",
+        "img": "1125_711_NS1200_Zyn_LM_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER",
+        "code": "711_RESELLER",
+        "family": [
+            "RESELLER"
+        ],
+        "tags": "RESELLER",
+        "img": "1125_711_NS1520_Reseller.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | FAROS",
+        "code": "711_RESELLER_FAROS",
+        "family": [
+            "RESELLER",
+            "FAROS"
+        ],
+        "tags": "RESELLER FAROS",
+        "img": "1125_711_NS1520_Reseller_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM",
+        "code": "711_RESELLER_LM",
+        "family": [
+            "RESELLER",
+            "LM"
+        ],
+        "tags": "RESELLER LM",
+        "img": "1125_711_NS1520_Reseller_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM | FAROS",
+        "code": "711_RESELLER_LM_FAROS",
+        "family": [
+            "RESELLER",
+            "LM",
+            "FAROS"
+        ],
+        "tags": "RESELLER LM FAROS",
+        "img": "1125_711_NS1520_Reseller_LM_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN",
+        "code": "711_ZYN",
+        "family": [
+            "ZYN"
+        ],
+        "tags": "ZYN",
+        "img": "1125_711_NS1520_Zyn.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | FAROS",
+        "code": "711_ZYN_FAROS",
+        "family": [
+            "ZYN",
+            "FAROS"
+        ],
+        "tags": "ZYN FAROS",
+        "img": "1125_711_NS1520_Zyn_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | LM",
+        "code": "711_ZYN_LM",
+        "family": [
+            "ZYN",
+            "LM"
+        ],
+        "tags": "ZYN LM",
+        "img": "1125_711_NS1520_Zyn_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | LM | FAROS",
+        "code": "711_ZYN_LM_FAROS",
+        "family": [
+            "ZYN",
+            "LM",
+            "FAROS"
+        ],
+        "tags": "ZYN LM FAROS",
+        "img": "1125_711_NS1520_Zyn_LM_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER",
+        "code": "711_RESELLER",
+        "family": [
+            "RESELLER"
+        ],
+        "tags": "RESELLER",
+        "img": "1125_711_NS1830_Reseller.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | FAROS",
+        "code": "711_RESELLER_FAROS",
+        "family": [
+            "RESELLER",
+            "FAROS"
+        ],
+        "tags": "RESELLER FAROS",
+        "img": "1125_711_NS1830_Reseller_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM",
+        "code": "711_RESELLER_LM",
+        "family": [
+            "RESELLER",
+            "LM"
+        ],
+        "tags": "RESELLER LM",
+        "img": "1125_711_NS1830_Reseller_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM | FAROS",
+        "code": "711_RESELLER_LM_FAROS",
+        "family": [
+            "RESELLER",
+            "LM",
+            "FAROS"
+        ],
+        "tags": "RESELLER LM FAROS",
+        "img": "1125_711_NS1830_Reseller_LM_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN",
+        "code": "711_ZYN",
+        "family": [
+            "ZYN"
+        ],
+        "tags": "ZYN",
+        "img": "1125_711_NS1830_Zyn.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | FAROS",
+        "code": "711_ZYN_FAROS",
+        "family": [
+            "ZYN",
+            "FAROS"
+        ],
+        "tags": "ZYN FAROS",
+        "img": "1125_711_NS1830_Zyn_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | LM",
+        "code": "711_ZYN_LM",
+        "family": [
+            "ZYN",
+            "LM"
+        ],
+        "tags": "ZYN LM",
+        "img": "1125_711_NS1830_Zyn_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "ZYN | LM | FAROS",
+        "code": "711_ZYN_LM_FAROS",
+        "family": [
+            "ZYN",
+            "LM",
+            "FAROS"
+        ],
+        "tags": "ZYN LM FAROS",
+        "img": "1125_711_NS1830_Zyn_LM_Faros.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "LM",
+        "code": "711_LM",
+        "family": [
+            "LM"
+        ],
+        "tags": "LM",
+        "img": "1125_711_NS1_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "LM | FAROS | 25",
+        "code": "711_LM_FAROS_25",
+        "family": [
+            "LM",
+            "FAROS",
+            "25"
+        ],
+        "tags": "LM FAROS 25",
+        "img": "1125_711_NS1_LM_FAROS+25.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "LM | FAROS",
+        "code": "711_LM_FAROS",
+        "family": [
+            "LM",
+            "FAROS"
+        ],
+        "tags": "LM FAROS",
+        "img": "1125_711_NS1_LM_FAROS.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM",
+        "code": "711_RESELLER_LM",
+        "family": [
+            "RESELLER",
+            "LM"
+        ],
+        "tags": "RESELLER LM",
+        "img": "1125_711_NS1_RESELLER_LM.jpg",
+        "categoria": "ns",
+        "cadena": "711"
+    },
+    {
+        "title": "RESELLER | LM | FAROS | 25",
+        "code": "711_RESELLER_LM_FAROS_25",
+        "family": [
             "RESELLER",
             "LM",
             "FAROS",
             "25"
         ],
-        "tags": "NS1 RESELLER LM FAROS 25",
-        "img": "0925_711_NS1_RESELLER_LM_FAROS_25.jpg",
-        "categoria": "ns1",
+        "tags": "RESELLER LM FAROS 25",
+        "img": "1125_711_NS1_RESELLER_LM_FAROS+25.jpg",
+        "categoria": "ns",
         "cadena": "711"
     },
     {
-        "title": "NS1 | RESELLER | LM | FAROS",
-        "code": "0925_711_NS1_RESELLER_LM_FAROS",
+        "title": "RESELLER | LM | FAROS",
+        "code": "711_RESELLER_LM_FAROS",
         "family": [
-            "NS1",
             "RESELLER",
             "LM",
             "FAROS"
         ],
-        "tags": "NS1 RESELLER LM FAROS",
-        "img": "0925_711_NS1_RESELLER_LM_FAROS.jpg",
-        "categoria": "ns1",
-        "cadena": "711"
-    }, {
-        "title": "NS1 | LM | FAROS",
-        "code": "0925_711_NS1_LM_FAROS",
-        "family": [
-            "NS1",
-            "LM",
-            "FAROS"
-        ],
-        "tags": "NS1 LM FAROS",
-        "img": "0925_711_NS1_LM_FAROS.jpg",
-        "categoria": "ns1",
-        "cadena": "711"
-    },
-    {
-        "title": "NS1 | LM | FAROS | 25",
-        "code": "0925_711_NS1_LM_FAROS_25",
-        "family": [
-            "NS1",
-            "LM",
-            "FAROS",
-            "25"
-        ],
-        "tags": "NS1 LM FAROS 25",
-        "img": "0925_711_NS1_LM_FAROS_25.jpg",
-        "categoria": "ns1",
-        "cadena": "711"
-    },
-    {
-        "title": "NS1 | RESELLER | LM",
-        "code": "0925_711_NS1_RESELLER_LM",
-        "family": [
-            "NS1",
-            "RESELLER",
-            "LM"
-        ],
-        "tags": "NS1 RESELLER LM",
-        "img": "0925_711_NS1_RESELLER_LM.jpg",
-        "categoria": "ns1",
-        "cadena": "711"
-    },
-    {
-        "title": "NS1 | LM",
-        "code": "0925_711_NS1_LM",
-        "family": [
-            "NS1",
-            "LM"
-        ],
-        "tags": "NS1 LM",
-        "img": "0925_711_NS1_LM.jpg",
-        "categoria": "ns1",
+        "tags": "RESELLER LM FAROS",
+        "img": "1125_711_NS1_RESELLER_LM_FAROS.jpg",
+        "categoria": "ns",
         "cadena": "711"
     }
-];
-
+]
