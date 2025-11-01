@@ -7,1033 +7,450 @@ window.itemsBackwall = [{
             "HEADER"
         ],
         "tags": "BACKWALL 4 CHAROLAS HEADER",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER.jpg",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER-.jpg"
     },
     {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
             "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU ZYN",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | ZYN",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM ZYN",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | V2F",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_V2F",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "V2F"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU V2F",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM__HTU_CHAROLAHTU_V2F.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025 | V2F",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025_V2F",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025",
-            "V2F"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN2025 V2F",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM__HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025_V2F.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN | V2F",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN_V2F",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN",
-            "V2F"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN V2F",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM__HTU_ZYN_CHAROLAZYN_V2F.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | V2F",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_V2F",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "V2F"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM HTU ZYN V2F",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM__HTU_ZYN_V2F.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | FAROS | LM | V2F",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_FAROS_LM__V2F",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "V2F"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER FAROS LM V2F",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_FAROS_LM___V2F.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER HTU CHAROLAHTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | HTU | ZYN",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "HTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER HTU ZYN",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_HTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | LM",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_LM",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "LM"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER LM",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | LM | HTU | ZYN",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_LM_HTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER LM HTU ZYN",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | LM | HTU | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER LM HTU ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 4 CHAROLAS | HEADER | LM | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025",
-        "family": [
-            "BACKWALL",
-            "4 CHAROLAS",
-            "HEADER",
-            "LM",
-            "ZYN",
-            "CHAROLAZYN2025"
-        ],
-        "tags": "BACKWALL 4 CHAROLAS HEADER LM ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_4 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
             "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER-HTU_CHAROLAHTU.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER-HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER-ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS+25_LM_MLB25-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS+25_LM_MLB25-HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS+25_LM_MLB25-HTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS+25_LM_MLB25-HTU_ZYN_CHAROLAZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_ZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS+25_LM_MLB25-ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS+25_MLB25-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN2025",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN2025"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN2025.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS+25_MLB25-HTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_ZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "ZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "ZYN",
-            "CHAROLAZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_LM-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN2025",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "ZYN",
-            "CHAROLAZYN2025"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN2025.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_LM-HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__HTU_CHAROLAHTU_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_LM_MLB25-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025 | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN2025 V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_LM_MLB25-HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU CHAROLAHTU ZYN CHAROLAZYN V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__HTU_CHAROLAHTU_ZYN_CHAROLAZYN_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_LM_MLB25-HTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__HTU_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_LM_MLB25-ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN2025 | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN2025_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN2025",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN2025 V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__HTU_ZYN_CHAROLAZYN2025_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_LM_MLB25-ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | CHAROLAZYN | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_CHAROLAZYN_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN CHAROLAZYN V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__HTU_ZYN_CHAROLAZYN_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_MLB25-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | HTU | ZYN | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_HTU_ZYN_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "HTU",
-            "ZYN",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM HTU ZYN V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__HTU_ZYN_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_FAROS_MLB25-HTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | ZYN | CHAROLAZYN2025 | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_ZYN_CHAROLAZYN2025_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "ZYN",
-            "CHAROLAZYN2025",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN CHAROLAZYN2025 V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__ZYN_CHAROLAZYN2025_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | ZYN | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM_ZYN_V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "ZYN",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM ZYN V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM__ZYN_V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM-HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | FAROS | LM | V2F",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_FAROS_LM__V2F",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "FAROS",
-            "LM",
-            "V2F"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER FAROS LM V2F",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_FAROS_LM___V2F.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM-HTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | HTU",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_HTU",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "HTU"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER HTU",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM_MLB25-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | HTU | CHAROLAHTU",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_HTU_CHAROLAHTU",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "HTU",
-            "CHAROLAHTU"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER HTU CHAROLAHTU",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM_MLB25-CHAROLAHTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | HTU | CHAROLAHTU | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER HTU CHAROLAHTU ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM_MLB25-HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER HTU CHAROLAHTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM_MLB25-HTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | HTU | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_HTU_ZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "HTU",
-            "ZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER HTU ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_ZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM_MLB25-ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | HTU | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_HTU_ZYN_CHAROLAZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER HTU ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_HTU_ZYN_CHAROLAZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_LM_MLB25-ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_MLB25-.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_MLB25-HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU | CHAROLAHTU",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU_CHAROLAHTU",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU CHAROLAHTU",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    /*{
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU | CHAROLAHTU | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU CHAROLAHTU ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },*/
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_MLB25-HTU_ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU | CHAROLAHTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "CHAROLAHTU",
-            "ZYN",
-            "CHAROLAZYN2025"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU CHAROLAHTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_CHAROLAHTU_ZYN_CHAROLAZYN2025.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_MLB25-ZYN.jpg"
     },
     {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU_ZYN",
+        "title": "BACKWALL | 4 CHAROLAS | HEADER",
+        "code": "OXXO_BACKWALL_4CHAROLAS_HEADER",
         "family": [
             "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN"
+            "4 CHAROLAS",
+            "HEADER"
         ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN.jpg",
+        "tags": "BACKWALL 4 CHAROLAS HEADER",
         "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | HTU | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN2025",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "HTU",
-            "ZYN",
-            "CHAROLAZYN2025"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM HTU ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_HTU_ZYN_CHAROLAZYN2025.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | ZYN | CHAROLAZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "ZYN",
-            "CHAROLAZYN"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM ZYN CHAROLAZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | LM | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "LM",
-            "ZYN",
-            "CHAROLAZYN2025"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER LM ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_LM_ZYN_CHAROLAZYN2025.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | ZYN",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_ZYN",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "ZYN"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER ZYN",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_ZYN.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
-    },
-    {
-        "title": "BACKWALL | 5 CHAROLAS | HEADER | ZYN | CHAROLAZYN2025",
-        "code": "OXXO_BACKWALL_5CHAROLAS_HEADER_ZYN_CHAROLAZYN2025",
-        "family": [
-            "BACKWALL",
-            "5 CHAROLAS",
-            "HEADER",
-            "ZYN",
-            "CHAROLAZYN2025"
-        ],
-        "tags": "BACKWALL 5 CHAROLAS HEADER ZYN CHAROLAZYN2025",
-        "img": "OXXO_BACKWALL_5 CHAROLAS_HEADER_ZYN_CHAROLAZYN2025.jpg",
-        "categoria": "backwall",
-        "cadena": "oxxo"
+        "cadena": "oxxo",
+        "img": "Q425_OXXO_BWLL_5 CHAROLAS_HEADER_MLB25-ZYN_CHAROLAZYN2025.jpg"
     }
-];
+]
