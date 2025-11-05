@@ -222,7 +222,7 @@
 
 <body>
     <div id="startView" class="container text-center my-5">
-        <h1 class="mb-4">Bienvenido al Catálogo de Septiembre </h1>
+        <h1 class="mb-4">Bienvenido al Catálogo de Noviembre </h1>
         <div class="d-flex justify-content-center flex-wrap gap-3">
             <button class="btn btn-outline-primary m-2" onclick="filtrarPorCadena('oxxo')">
       <img src="logos/Oxxo_Logo.svg.png" alt="OXXO" style="height: 80px">
@@ -289,17 +289,19 @@
             const visibles = itemsVisibles.filter(item => {
                 const familia = (item.family || []).map(f => f.toUpperCase());
 
-                let tipo = "Metalico,Backwall";
-                let charolas = null;
+                let tipo = "Metalico";
+                let charolas = "2"; // valor por defecto
 
-                // Buscar cualquier número de 1 o más dígitos precedido por BACKWALL, METALICO o CHAROLAS
-                const matchGeneral = item.code.match(/(?:BACKWALL|METALICO|CHAROLAS)[_ ]?(\d+)/);
-                if (matchGeneral) {
-                    charolas = matchGeneral[1];
-                } else {
-                    // Si no se encuentra, buscar directamente un número aislado en el campo family
-                    const posiblesCharolas = (item.family || []).filter(f => /^\d+$/.test(f));
-                    charolas = posiblesCharolas.length ? posiblesCharolas[0] : null;
+                if (item.code.includes("BACKWALL")) {
+                    tipo = "Backwall";
+                    const match = item.code.match(/BACKWALL[_ ]?(\d)/);
+                    if (match) charolas = match[1];
+                } else if (item.code.includes("METALICO")) {
+                    tipo = "Metalico";
+                    const matchMetalico = item.code.match(/METALICO[_ ]?(\d)/);
+                    const matchCharolas = item.code.match(/CHAROLAS[_ ]?(\d)/);
+                    if (matchMetalico) charolas = matchMetalico[1];
+                    else if (matchCharolas) charolas = matchCharolas[1];
                 }
 
 
