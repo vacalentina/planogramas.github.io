@@ -1,4 +1,4 @@
-window.itemsCharolas = [{
+/*window.itemsCharolas = [{
         "title": "OXXO | CHECKOUT | METALICO | 4 | CHAROLAS | HEADER",
         "code": "OXXO_CHECKOUT_METALICO_4_CHAROLAS_HEADER",
         "family": [
@@ -1461,4 +1461,4 @@ window.itemsCharolas = [{
         "categoria": "charolas",
         "cadena": "oxxo"
     }
-];
+];*/
