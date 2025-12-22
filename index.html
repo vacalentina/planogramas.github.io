@@ -249,6 +249,8 @@
             <div id="filtrosTipo" class="filter-group"></div>
             <label class="ml-3">Charolas:</label>
             <div id="filtrosCharolas" class="filter-group"></div>
+            <label class="ml-3">Mes:</label>
+            <div id="filtrosMes" class="filter-group"></div>
             <button class="btn btn-danger ml-3" onclick="limpiarFiltros()">Limpiar filtros</button>
         </div>
         <div class="text-center mb-2">
@@ -276,18 +278,61 @@
         const filtrosFamilia = document.getElementById('filtrosFamilia');
         const filtrosTipo = document.getElementById('filtrosTipo');
         const filtrosCharolas = document.getElementById('filtrosCharolas');
+        const filtrosMes = document.getElementById('filtrosMes');
         const modal = document.getElementById('imageModal');
         const modalImg = document.getElementById('modalImage');
 
         const activeFilters = {
             family: new Set(),
             tipo: new Set(),
-            charolas: new Set()
+            charolas: new Set(),
+            mes: new Set()
         };
+
+        function obtenerCarpetaImagen(item) {
+            const cadena = (item.cadena || '').toLowerCase();
+            if (cadena === 'cck') return 'imagenes_cck';
+            if (cadena === '711' || cadena === 'seven' || cadena === '7-eleven') return 'imagenes_seven';
+            if (cadena === 'oxxo') return item.categoria === 'backwall' ? 'img' : 'imagenes_charolas_extraidas';
+            return item.categoria === 'backwall' ? 'img' : 'imagenes_charolas_extraidas';
+        }
+
+        function normalizarMes(valor) {
+            if (!valor) return null;
+            const limpio = valor.toString().trim().toUpperCase();
+            const mapa = {
+                'DIC': 'DIC',
+                'DICIEMBRE': 'DIC',
+                'ENE': 'ENE',
+                'ENERO': 'ENE'
+            };
+            return mapa[limpio] || limpio;
+        }
+
+        function extraerMesDeTexto(texto) {
+            if (!texto) return null;
+            const coincidencia = texto.toUpperCase().match(/\b(DIC|DICIEMBRE|ENE|ENERO)\b/);
+            return coincidencia ? normalizarMes(coincidencia[1]) : null;
+        }
+
+        function obtenerMes(item) {
+            const directo = normalizarMes(item.month || item.mes);
+            if (directo) return directo;
+
+            const desdeTags = extraerMesDeTexto(item.tags) || extraerMesDeTexto(item.code) || extraerMesDeTexto(item.title);
+            if (desdeTags) return desdeTags;
+
+            const nombre = item.img || '';
+            const coincidenciaArchivo = nombre.match(/^([A-Za-z]{3}\d{2}|\d{4})/);
+            if (coincidenciaArchivo) return normalizarMes(coincidenciaArchivo[1]);
+
+            return 'General';
+        }
 
         function renderItems() {
             const visibles = itemsVisibles.filter(item => {
                 const familia = (item.family || []).map(f => f.toUpperCase());
+                const mes = obtenerMes(item);
 
                 let tipo = "Metalico";
                 let charolas = "2"; // valor por defecto
@@ -308,14 +353,14 @@
                 const familiaMatch = !activeFilters.family.size || [...activeFilters.family].some(f => familia.includes(f));
                 const tipoMatch = !activeFilters.tipo.size || activeFilters.tipo.has(tipo);
                 const charolasMatch = !activeFilters.charolas.size || activeFilters.charolas.has(charolas);
-                return familiaMatch && tipoMatch && charolasMatch;
+                const mesMatch = !activeFilters.mes.size || activeFilters.mes.has(mes);
+                return familiaMatch && tipoMatch && charolasMatch && mesMatch;
             });
 
             container.innerHTML = '';
             visibles.forEach(item => {
-                const carpeta = item.code.toLowerCase().includes('cck') ? 'imagenes_cck' :
-                    item.code.toLowerCase().includes('711') || item.code.toLowerCase().includes('711') ? 'imagenes_seven' :
-                    (item.categoria === 'backwall' ? 'img' : 'imagenes_charolas_extraidas');
+                const carpeta = obtenerCarpetaImagen(item);
+                const mes = obtenerMes(item);
 
                 const ruta = `${carpeta}/${encodeURIComponent(item.img)}`;
                 const div = document.createElement('div');
@@ -325,6 +370,7 @@
         <div class="info">
           <h5>${item.title}</h5>
           <p>${item.code}</p>
+          <p class="mb-0"><small>Mes: ${mes}</small></p>
         </div>
       `;
                 container.appendChild(div);
@@ -393,9 +439,16 @@
             filtrosFamilia.innerHTML = '';
             filtrosTipo.innerHTML = '';
             filtrosCharolas.innerHTML = '';
+            filtrosMes.innerHTML = '';
             config.family.forEach(valor => crearBotonFiltro(valor, 'family', filtrosFamilia));
             config.tipo.forEach(valor => crearBotonFiltro(valor, 'tipo', filtrosTipo));
             config.charolas.forEach(valor => crearBotonFiltro(valor, 'charolas', filtrosCharolas));
+        }
+
+        function generarFiltrosMes(items) {
+            filtrosMes.innerHTML = '';
+            const meses = new Set(items.map(obtenerMes));
+            [...meses].sort().forEach(mes => crearBotonFiltro(mes, 'mes', filtrosMes));
         }
 
         function filtrarPorCadena(nombreCadena) {
@@ -410,6 +463,7 @@
 
             limpiarFiltros();
             generarFiltrosDinamicos(filtrosPorCadena[nombreCadena.toLowerCase()]);
+            generarFiltrosMes(itemsVisibles);
         }
     </script>
 </body>
