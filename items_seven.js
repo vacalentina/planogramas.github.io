@@ -187,6 +187,220 @@ window.itemsSeven = [{
         img: "DIC25_711_4 FT_HEADER-HTU_ZYN.png",
         categoria: "backwall",
         cadena: "711"
-    }
+    },
+    {
+  title: "NS12",
+  code: "711_BACKWALL_NS12",
+  family: ["NS12"],
+  tags: "NS12",
+  img: "ENE26_711_NS12.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS15",
+  code: "711_BACKWALL_NS15",
+  family: ["NS15"],
+  tags: "NS15",
+  img: "ENE26_711_NS15.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS15 FAROS",
+  code: "711_BACKWALL_NS15_FAROS",
+  family: ["NS15", "FAROS"],
+  tags: "NS15 FAROS",
+  img: "ENE26_711_NS15_FAROS.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS15 FAROS25",
+  code: "711_BACKWALL_NS15_FAROS25",
+  family: ["NS15", "FAROS25"],
+  tags: "NS15 FAROS25",
+  img: "ENE26_711_NS15_FAROS25.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS15 RESELLER",
+  code: "711_BACKWALL_NS15_RESELLER",
+  family: ["NS15", "RESELLER"],
+  tags: "NS15 RESELLER",
+  img: "ENE26_711_NS15_RESELLER.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS15 RESELLER FAROS",
+  code: "711_BACKWALL_NS15_RESELLER_FAROS",
+  family: ["NS15", "RESELLER", "FAROS"],
+  tags: "NS15 RESELLER FAROS",
+  img: "ENE26_711_NS15_RESELLER_FAROS.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS15 RESELLER FAROS25",
+  code: "711_BACKWALL_NS15_RESELLER_FAROS25",
+  family: ["NS15", "RESELLER", "FAROS25"],
+  tags: "NS15 RESELLER FAROS25",
+  img: "ENE26_711_NS15_RESELLER_FAROS25.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+
+{
+  title: "NS18",
+  code: "711_BACKWALL_NS18",
+  family: ["NS18"],
+  tags: "NS18",
+  img: "ENE26_711_NS18.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS18 FAROS",
+  code: "711_BACKWALL_NS18_FAROS",
+  family: ["NS18", "FAROS"],
+  tags: "NS18 FAROS",
+  img: "ENE26_711_NS18_FAROS.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS18 FAROS25",
+  code: "711_BACKWALL_NS18_FAROS25",
+  family: ["NS18", "FAROS25"],
+  tags: "NS18 FAROS25",
+  img: "ENE26_711_NS18_FAROS25.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS18 RESELLER",
+  code: "711_BACKWALL_NS18_RESELLER",
+  family: ["NS18", "RESELLER"],
+  tags: "NS18 RESELLER",
+  img: "ENE26_711_NS18_RESELLER.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS18 RESELLER FAROS",
+  code: "711_BACKWALL_NS18_RESELLER_FAROS",
+  family: ["NS18", "RESELLER", "FAROS"],
+  tags: "NS18 RESELLER FAROS",
+  img: "ENE26_711_NS18_RESELLER_FAROS.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS18 RESELLER FAROS25",
+  code: "711_BACKWALL_NS18_RESELLER_FAROS25",
+  family: ["NS18", "RESELLER", "FAROS25"],
+  tags: "NS18 RESELLER FAROS25",
+  img: "ENE26_711_NS18_RESELLER_FAROS25.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+
+{
+  title: "NS19",
+  code: "711_BACKWALL_NS19",
+  family: ["NS19"],
+  tags: "NS19",
+  img: "ENE26_711_NS19.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS19 FAROS",
+  code: "711_BACKWALL_NS19_FAROS",
+  family: ["NS19", "FAROS"],
+  tags: "NS19 FAROS",
+  img: "ENE26_711_NS19_FAROS.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS19 FAROS25",
+  code: "711_BACKWALL_NS19_FAROS25",
+  family: ["NS19", "FAROS25"],
+  tags: "NS19 FAROS25",
+  img: "ENE26_711_NS19_FAROS25.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS19 RESELLER",
+  code: "711_BACKWALL_NS19_RESELLER",
+  family: ["NS19", "RESELLER"],
+  tags: "NS19 RESELLER",
+  img: "ENE26_711_NS19_RESELLER.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS19 RESELLER FAROS",
+  code: "711_BACKWALL_NS19_RESELLER_FAROS",
+  family: ["NS19", "RESELLER", "FAROS"],
+  tags: "NS19 RESELLER FAROS",
+  img: "ENE26_711_NS19_RESELLER_FAROS.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "NS19 RESELLER FAROS25",
+  code: "711_BACKWALL_NS19_RESELLER_FAROS25",
+  family: ["NS19", "RESELLER", "FAROS25"],
+  tags: "NS19 RESELLER FAROS25",
+  img: "ENE26_711_NS19_RESELLER_FAROS25.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+
+{
+  title: "4 FT HEADER HTU ZYN",
+  code: "711_BACKWALL_4FT_HEADER_HTU_ZYN",
+  family: ["4 FT", "HEADER", "HTU", "ZYN"],
+  tags: "4 FT HEADER HTU ZYN",
+  img: "ENE26_711_4_FT_HEADER-HTU_ZYN.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+},
+{
+  title: "5 FT HEADER HTU ZYN",
+  code: "711_BACKWALL_5FT_HEADER_HTU_ZYN",
+  family: ["5 FT", "HEADER", "HTU", "ZYN"],
+  tags: "5 FT HEADER HTU ZYN",
+  img: "ENE26_711_5_FT_HEADER-HTU_ZYN.png",
+  categoria: "backwall",
+  cadena: "711",
+  month: "ENE26"
+}
+
 
 ];
