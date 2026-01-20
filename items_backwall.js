@@ -1,6 +1,4 @@
-window.itemsBackwall = [
-       
-       /*{
+window.itemsBackwall = [{
        title: "BACKWALL | BWLL | 4 CHAROLAS | HEADER",
         code: "OXXO_OXXO_BACKWALL_4CHAROLAS_HEADER",
         family: [
@@ -652,5 +650,6 @@ window.itemsBackwall = [
 
 
 ]
+
 
 
